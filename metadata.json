@@ -1,0 +1,5 @@
+{
+  "name": "Signage Content Viewer",
+  "description": "A simple web application to display various types of content (videos, images, YouTube) on a screen, controlled by a simple admin panel. Ideal for digital signage or videowalls.",
+  "requestFramePermissions": []
+}
